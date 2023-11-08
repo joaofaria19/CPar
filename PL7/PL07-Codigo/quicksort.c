@@ -12,6 +12,7 @@ void quickSort(float* arr, int size)
         partition(arr, &i, &j);
 
 	# pragma omp parallel
+	# pragma omp single nowait
 	if (0 < j){ 
 			# pragma omp task
         	quickSort_internal(arr, 0, j);
