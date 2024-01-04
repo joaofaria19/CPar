@@ -1,2 +1,2 @@
-# CPae
+# CPar
 Exercicios resolviddos na aulas práticas de Computação Paralela
