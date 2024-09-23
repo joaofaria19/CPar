@@ -1,2 +1,2 @@
 # CPar
-Exercicios resolviddos na aulas práticas de Computação Paralela
+Exercicios resolvidos na aulas práticas de Computação Paralela 2023/2024
